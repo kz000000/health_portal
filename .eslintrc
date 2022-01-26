@@ -1,0 +1,7 @@
+{
+    "extends": "next",
+    "root": true,
+    "rules": {
+        "indent": ["error", 2]
+    }
+}
